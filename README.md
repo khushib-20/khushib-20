@@ -1,8 +1,8 @@
 # Hi 👋, I'm Khushi Bhamare
 
-**B.Tech + M.Tech (Dual Degree) in Electronics & Communication Engineering @ IIITDM Kurnool**
+**Dual Degree in Electronics & Communication Engineering @ IIITDM Kurnool**
 
-I like solving algorithmic problems and building software that makes ideas easier to see and use, from algorithm visualizers to ML pipelines to PDF tools that run entirely in the browser.
+I like solving algorithmic problems and building software that makes ideas easier to see and use, from algorithm visualizers to ML pipelines.
 
 ---
 
