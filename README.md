@@ -26,7 +26,6 @@ I like solving algorithmic problems and building software that makes ideas easie
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 **Web**
 
@@ -34,7 +33,6 @@ I like solving algorithmic problems and building software that makes ideas easie
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -67,11 +65,6 @@ Interactive app that animates 11 sorting, searching, and graph algorithms step b
 
 [Live Demo](https://github.com/khushib-20) · [Source](https://github.com/khushib-20)
 
-### 📄 PDF Toolkit
-`React` · `TypeScript` · `Tailwind` · `PWA`
-
-An iLovePDF-style toolkit with 12 tools (merge, split, compress, rotate, reorder, protect, PDF ↔ image and more). It runs entirely in the browser with no backend, so files never leave the device, and it installs as a PWA.
-
 ### 🧠 Tic-Tac-Toe AI Engine
 `Python` · `Minimax` · `Alpha-Beta Pruning` · `OOP`
 
@@ -81,11 +74,6 @@ An unbeatable AI that searches all 255,168 possible games. It was checked across
 `Python` · `Scikit-Learn` · `Pandas` · `SMOTE`
 
 An ML pipeline on 7,000+ customer records. SMOTE corrected a 74/26 class imbalance and raised churner recall from 52% to 86%. The Random Forest model reaches 82% accuracy under 5-fold cross-validation.
-
-### 🔌 Wallace Tree Multiplier
-`Verilog` · `Carry-Save Adders` · `Digital Design`
-
-Hardware multiplier using partial-product reduction and carry-save addition, with pipelining explored.
 
 ---
 
@@ -106,6 +94,11 @@ Hardware multiplier using partial-product reduction and carry-save addition, wit
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=khushib-20&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+</p>
+<p align="center">
+  <a href="https://leetcode.com/u/khushiB2006">
+    <img src="https://leetcard.jacoblin.cool/khushiB2006?theme=dark&font=Karla&ext=heatmap" alt="LeetCode stats" />
+  </a>
 </p>
 
 ---
